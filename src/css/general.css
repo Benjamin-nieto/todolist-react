@@ -1,0 +1,28 @@
+body{
+    font-family: roboto;
+    background: #e7ddff;
+}
+
+h1{
+    text-align: center;
+}
+
+div ul{
+    list-style-type: none;
+ /*   padding: 0%;
+    margin-left: 40%;
+    margin-right: 10%;*/
+}
+
+div#elements{
+    text-align: center;
+}
+
+div#infoTask{
+    text-align: center;
+}
+
+input.checks{
+    width: 21px;
+    height: 21px;
+}
